@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/choyoonseo/OneDrive/모시공/2-1/1일1코딩",
+      "program": "/Users/choyoonseo/OneDrive/모시공/2-1/1일1코딩/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
